@@ -21,20 +21,18 @@ This portfolio is designed so recruiters and hiring managers can quickly review 
 
 ## 📁 Repository Structure
 
----
-powerbi-portfolio/
-│
-├── README.md                <- This file (project overview + how to navigate)
-├── projects/                <- Each project in its own folder
-│   ├── project-1/
-│   │   ├── README.md        <- Project-level write-up and reproduction steps
-│   │   ├── dashboard.png    <- Screenshot (800–1600 px wide recommended)
-│   │   └── pbix-link.txt
-│   │   ├── project-repo-link.txt    <- Public link or notes about PBIX file
-│   └── project-2/
-└── assets/
-└── portfolio-banner.png <- Banner used on README or website
----
+powerbi-portfolio/                                                                                                                                                                      
+│                                                                                                                                
+├── README.md                <- This file (project overview + how to navigate)                                                            
+├── projects/                <- Each project in its own folder                                                      
+│   ├── project-1/                                                                                                                
+│   │   ├── README.md        <- Project-level write-up and reproduction steps                                                      
+│   │   ├── dashboard.png    <- Screenshot (800–1600 px wide recommended)                                                      
+│   │   └── pbix-link.txt                                                                      
+│   │   ├── project-repo-link.txt    <- Public link or notes about PBIX file                                                                                  
+│   └── project-2/                                                                                      
+
+
 
 ## How to view the dashboards
 
