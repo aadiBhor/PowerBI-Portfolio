@@ -21,7 +21,7 @@ This portfolio is designed so recruiters and hiring managers can quickly review 
 
 ## 📁 Repository Structure
 
-
+---
 powerbi-portfolio/
 │
 ├── README.md                <- This file (project overview + how to navigate)
@@ -34,7 +34,7 @@ powerbi-portfolio/
 │   └── project-2/
 └── assets/
 └── portfolio-banner.png <- Banner used on README or website
-
+---
 
 ## How to view the dashboards
 
